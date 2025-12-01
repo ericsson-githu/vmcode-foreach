@@ -9,15 +9,7 @@ rgs_parent = {
 
     }
   }  
-  "rg2" = {
-    name       = "rg_prod"
-    location   = "West Europe"
-    managed_by = "terraform"
-    tags = {
-      env   = "prod"
-      owner = "uday"
-    }
-  }
+  
 }
 
 

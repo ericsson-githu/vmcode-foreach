@@ -3,3 +3,5 @@
 .terraform/ 
  Terraform lock file
 .terraform.lock.hcl
+crash.log
+*.exe

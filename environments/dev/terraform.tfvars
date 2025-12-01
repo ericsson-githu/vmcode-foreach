@@ -8,8 +8,19 @@ rgs_parent = {
       owner = "uday"
 
     }
+  }  
+  "rg2" = {
+    name       = "rg_prod"
+    location   = "West Europe"
+    managed_by = "terraform"
+    tags = {
+      env   = "prod"
+      owner = "uday"
+    }
   }
 }
+
+
 
 storage_accounts = {
   "sgs1" = {

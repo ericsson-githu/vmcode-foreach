@@ -1,0 +1,6 @@
+*.tfstate
+.tfstate.
+.terraform.lock.hclr
+.terraform/ 
+crash.log
+*.exe
